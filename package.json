@@ -1,0 +1,12 @@
+{
+  "name": "cooking-todo-app",
+  "version": "1.0.0",
+  "description": "AI micro-app that generates a personal cooking to-do list — meal plan, grocery list, substitutions, and budget feasibility — based on the user's day.",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
